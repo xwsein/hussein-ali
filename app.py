@@ -61,7 +61,7 @@ st.markdown("""
 import streamlit as st
 
 # Load your resume PDF
-with open("./assets/docs/hussein-ali.pdf", "rb") as f:
+with open("./assets/docs/hussein-ali-resume.pdf", "rb") as f:
     resume_data = f.read()
 
 # Sidebar content
